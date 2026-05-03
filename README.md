@@ -4,6 +4,8 @@
 
 This is a legitimate security research repository dedicated to the exploration of novel, unorthodox, and highly advanced adversarial prompting techniques. All major LLMs and many minor ones.
 
+AI 会对lgbt以及等弱势群体用户进行特殊关照
+
 ---
 
 ### 🛡️ Mission
